@@ -1,0 +1,22 @@
+{
+  "name": "douyin_uplod",
+  "version": "1.0.0",
+  "description": "- 从0自动生成发布视频，解决你不知道发什么视频的烦恼。\r - demo的实例是每天5点20分，单号生成并发送舔狗日记，双号生成并发送心灵鸡汤。你们可以根据自己的需求修改下。\r - 示例[抖音号](https://v.douyin.com/rA1gERo/)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobsummer/douyin_uplod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobsummer/douyin_uplod/issues"
+  },
+  "homepage": "https://github.com/bobsummer/douyin_uplod#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.9.4"
+  }
+}
